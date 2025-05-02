@@ -10,8 +10,8 @@ first_name: Jin
 last_name: Song
 
 # Status emoji
-status: Focusing
-  icon: 🥰
+status: 
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
