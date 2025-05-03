@@ -22,8 +22,17 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: paper
+        - text: Rethinking Client Knowledge for Heterogeneous Federated Learning: A Representation Entanglement Perspective
           icon: brands/arxiv
-          url: https://arxiv.org/abs/2304.01852
+          url: 
+      buttons:
+        - text: Semi-Supervised Noise Adaptation
+          icon: brands/arxiv
+          url: 
+      buttons:
+        - text: Hashed Watermark as a Filter: Boosting Robustness of Weight-based Neural-Network Watermarking
+          icon: brands/arxiv
+          url: 
+      
         
 ---
