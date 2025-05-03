@@ -25,11 +25,9 @@ sections:
         - text: Rethinking Client Knowledge for Heterogeneous Federated Learning
           icon: brands/arxiv
           url: 
-      buttons:
         - text: Semi-Supervised Noise Adaptation
           icon: brands/arxiv
           url: 
-      buttons:
         - text: Hashed Watermark as a Filter
           icon: brands/arxiv
           url: 
