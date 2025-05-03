@@ -22,7 +22,7 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Rethinking Client Knowledge for Heterogeneous Federated Learning: A Representation Entanglement Perspective
+        - text: Rethinking Client Knowledge for Heterogeneous Federated Learning
           icon: brands/arxiv
           url: 
       buttons:
@@ -30,7 +30,7 @@ sections:
           icon: brands/arxiv
           url: 
       buttons:
-        - text: Hashed Watermark as a Filter: Boosting Robustness of Weight-based Neural-Network Watermarking
+        - text: Hashed Watermark as a Filter
           icon: brands/arxiv
           url: 
       

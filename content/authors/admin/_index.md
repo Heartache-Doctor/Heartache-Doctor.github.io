@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 宋进
+title: Jin Song
 
 # Name pronunciation (optional)
-name_pronunciation: Jin Song
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Jin
