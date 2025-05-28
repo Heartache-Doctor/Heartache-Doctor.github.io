@@ -24,13 +24,13 @@ sections:
       buttons:
         - text: Rethinking Client Knowledge for Heterogeneous Federated Learning
           icon: brands/arxiv
-          url: 
+          url: uploads/FedRE.pdf
         - text: Semi-Supervised Noise Adaptation
           icon: brands/arxiv
-          url: 
+          url: uploads/NAF.pdf
         - text: Hashed Watermark as a Filter
           icon: brands/arxiv
-          url: 
+          url: uploads/NeuralMark.pdf
       
         
 ---
