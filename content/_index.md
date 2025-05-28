@@ -22,13 +22,13 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Rethinking Client Knowledge for Heterogeneous Federated Learning
+        - text: FedRE
           icon: brands/arxiv
           url: uploads/FedRE.pdf
-        - text: Semi-Supervised Noise Adaptation
+        - text: Noise Adaptation Framework (NAF)
           icon: brands/arxiv
           url: uploads/NAF.pdf
-        - text: Hashed Watermark as a Filter
+        - text: NeuralMark
           icon: brands/arxiv
           url: uploads/NeuralMark.pdf
       
