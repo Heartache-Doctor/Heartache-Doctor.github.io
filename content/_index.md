@@ -30,7 +30,7 @@ sections:
           url: uploads/NAF.pdf
         - text: NeuralMark
           icon: brands/arxiv
-          url: uploads/NeuralMark.pdf
+          url: https://arxiv.org/abs/2507.11137
       
         
 ---
