@@ -32,10 +32,10 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Heartache-Doctor
-  - icon: brands/x
-    url: https://x.com/song_jin15839
-  - icon: brands/bluesky
-    url: https://bsky.app/profile/heartache-doctor.bsky.social
+  # - icon: brands/x
+  #   url: https://x.com/song_jin15839
+  # - icon: brands/bluesky
+  #   url: https://bsky.app/profile/heartache-doctor.bsky.social
   - icon: devicon/kaggle
     url: https://www.kaggle.com/heartachedoctor
   - icon: academicons/researchgate
@@ -56,4 +56,4 @@ profiles:
     url: uploads/resume.pdf
     label: Download my resume
 ---
-Jin Song is an undergraduate student at Nanjing University of Posts and Telecommunications, with a GPA of 3.9. His research interests lie in multimodal machine learning, reinforcement learning, embodied artificial intelligence, and game design. He is currently a member of the AnHeng Elite Program, supported by DBAPP Security Co., Ltd., and serves as the president of the Student Science Association. Jin has collaborated with [Yuan Yao](https://yyyaoyuan.github.io/) on two research projects in representation learning and one project on model watermarking.
+Jin Song is an undergraduate student at Nanjing University of Posts and Telecommunications, with a GPA of 3.92. His research interests lie in game agent.
