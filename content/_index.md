@@ -22,13 +22,13 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: FedRE: Federated Learning via Representation Entanglement (Preprint)
+        - text: "FedRE: Federated Learning via Representation Entanglement (Preprint)"
           icon: brands/arxiv
           url: uploads/FedRE.pdf
-        - text: Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain (Preprint)
+        - text: "Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain (Preprint)"
           icon: brands/arxiv
           url: uploads/SSNA.pdf
-        - text: Hashed Watermark as a Filter: Defeating Forging and Overwriting Attacks in Weight-based Neural Network Watermarking
+        - text: "Hashed Watermark as a Filter: Defeating Forging and Overwriting Attacks in Weight-based Neural Network Watermarking"
           icon: brands/arxiv
           url: https://arxiv.org/abs/2507.11137
       
