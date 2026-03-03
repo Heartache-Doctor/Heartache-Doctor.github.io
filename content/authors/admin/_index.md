@@ -56,4 +56,4 @@ profiles:
     url: uploads/resume.pdf
     label: Download my resume
 ---
-Jin Song is an undergraduate student at Nanjing University of Posts and Telecommunications, with a GPA of 3.92. His research interests lie in game agent.
+I am an undergraduate student from Nanjing University of Posts and Telecommunications, with a GPA of 3.94. I am interested in anything that makes AI work better. Below are links to the research projects I worked on during my undergraduate studies. If you are interested in any of them, feel free to reach out to me.

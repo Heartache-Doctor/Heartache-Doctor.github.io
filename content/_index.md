@@ -30,7 +30,8 @@ sections:
           url: https://www.arxiv.org/abs/2511.22265
         - text: "Noise Adaptation Framework (NAF)"
           icon: brands/arxiv
-          url: https://openreview.net/forum?id=OPQUeeT02q
+          url: uploads/17075NAF.pdf
+          # url: https://openreview.net/forum?id=OPQUeeT02q
         - text: "NeuralMark"
           icon: brands/arxiv
           url: https://arxiv.org/abs/2507.11137
