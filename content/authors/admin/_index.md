@@ -21,8 +21,8 @@ role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: NJUPT
-    url: https://www.njupt.edu.cn/en/
+  - name: NJUPT -> CMU
+    # url: https://www.njupt.edu.cn/en/
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
